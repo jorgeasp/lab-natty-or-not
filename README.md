@@ -1,14 +1,14 @@
-## 📒 Descrição
+##  Descrição
 Este projeto tem por objetivo trazer uma visão simples e direta sobre a inteligencia artificial, o modo que ela opera, cuidados no uso da mesma para não ser usada de forma a criar material que destorça a realidade ao nosso redor.
 Ela tem potencial para ser usada para bons resultados como para resultados falsos e enganadores.
 
-## 🤖 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 Foi feito uma pesquisa e o uso das IAs: ChatGPT e a Google Gemini.
 
-## 🧐 Processo de Criação
+##  Processo de Criação
 Bosquei criar um prompt bem enxuto e bem explicativo para a inteligência retornar um conteudo simples e objetivo.
 
-## 🚀 Resultados
+##  Resultados
 
 
 
@@ -18,8 +18,6 @@ Bosquei criar um prompt bem enxuto e bem explicativo para a inteligência retorn
 É preciso explorar com detalhes como a IA generativa pode ser utilizada na criação de textos, imagens e vídeos, além de discutir como reconhecer e usar essas ferramentas de forma ética e eficaz. Conheceremos abaixo, demonstrada em uma estrutura detalhada e o conteúdo para cada realizar essa ação.
 Estrutura do Projeto
 
-
-
 1. Introdução
 2. IA Generativa: Definição e Aplicações
 3. Criação de Textos com IA Generativa
@@ -27,7 +25,7 @@ Estrutura do Projeto
 5. Produção de Vídeos com IA Generativa
 6. Desafios e Considerações Éticas
 7. Dicas para Vencer na Era das IAs Generativas
-8.  Conclusão
+8. Conclusão
 
 ## 1. Introdução
 
