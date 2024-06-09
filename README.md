@@ -1,51 +1,111 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto tem por objetivo trazer uma visão simples e direta sobre a inteligencia artificial, o modo que ela opera, cuidados no uso da mesma para não ser usada de forma a criar material que destorça a realidade ao nosso redor.
+Ela tem potencial para ser usada para bons resultados como para resultados falsos e enganadores.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi feito uma pesquisa e o uso das IAs: ChatGPT e a Google Gemini.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Bosquei criar um prompt bem enxuto e bem explicativo para a inteligência retornar um conteudo simples e objetivo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
+# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+É preciso explorar com detalhes como a IA generativa pode ser utilizada na criação de textos, imagens e vídeos, além de discutir como reconhecer e usar essas ferramentas de forma ética e eficaz. Conheceremos abaixo, demonstrada em uma estrutura detalhada e o conteúdo para cada realizar essa ação.
+Estrutura do Projeto
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+
+1. Introdução
+2. IA Generativa: Definição e Aplicações
+3. Criação de Textos com IA Generativa
+4. Geração de Imagens com IA
+5. Produção de Vídeos com IA Generativa
+6. Desafios e Considerações Éticas
+7. Dicas para Vencer na Era das IAs Generativas
+8.  Conclusão
+
+## 1. Introdução
+
+A inteligência artificial generativa está mudando o panorama da criação de conteúdo. Desde textos e imagens até vídeos, essas tecnologias estão tornando mais fácil e rápido produzir conteúdo de alta qualidade. Mas com essa facilidade vem a necessidade de discernir o que é natural e o que é "fake natty" – ou seja, gerado artificialmente. Este guia explora como a IA generativa pode ser usada na criação de conteúdos e como podemos navegar com sucesso nessa nova era.
+
+
+## 2. IA Generativa: Definição e Aplicações
+
+IA generativa refere-se a algoritmos que podem criar novos dados a partir de modelos treinados em grandes conjuntos de dados existentes. Essas tecnologias são utilizadas em diversas áreas, incluindo:
+
+ -   Criação de texto: Chatbots, redação de artigos, geração de resumos.
+ -   Geração de imagens: Arte digital, design de produtos, criação de personagens.
+ -   Produção de vídeos: Animações, edição de filmes, vídeos publicitários.
+
+
+## 3. Criação de Textos com IA Generativa
+
+Ferramentas como GPT-4 podem gerar textos de alta qualidade para blogs, artigos, scripts de vídeos e muito mais. Elas funcionam analisando padrões em textos existentes e criando novos conteúdos que seguem esses padrões.
+
+Exemplos de uso:
+
+  -  Redação de artigos: Ferramentas de IA podem ajudar a criar rascunhos ou até artigos completos sobre diversos temas.
+  -  Marketing e Publicidade: Criação de slogans, descrições de produtos e conteúdos de redes sociais.
+
+
+## 4. Geração de Imagens com IA
+
+Ferramentas como DALL-E e MidJourney podem criar imagens realistas ou artísticas a partir de descrições textuais. Essas ferramentas são revolucionárias para designers, artistas e profissionais de marketing.
+
+Exemplos de uso:
+
+    Design de Produto: Criação de protótipos visuais a partir de descrições.
+    Arte Digital: Geração de ilustrações e conceitos artísticos.
+    Marketing Visual: Criação de imagens para campanhas publicitárias e conteúdo de redes sociais.
+
+
+## 5. Produção de Vídeos com IA Generativa
+
+
+A IA generativa também está revolucionando a produção de vídeos. Ferramentas como Synthesia permitem a criação de vídeos com avatares digitais que podem falar qualquer texto fornecido.
+
+Exemplos de uso:
+
+  -  Educação: Criação de vídeos educacionais com professores virtuais.
+  -  Treinamento Corporativo: Vídeos de treinamento e onboarding para novos funcionários.
+  -  Marketing: Vídeos promocionais personalizados para campanhas publicitárias.
+
+
+## 6. Desafios e Considerações Éticas
+
+Embora a IA generativa ofereça inúmeras vantagens, ela também apresenta desafios éticos e práticos:
+
+  -  Autenticidade: Diferenciar entre conteúdo humano e gerado por IA.
+  -  Propriedade Intelectual: Questões sobre quem detém os direitos sobre o conteúdo gerado.
+  -  Desinformação: Potencial para a criação de deepfakes e desinformação.
+
+
+## 7. Dicas para Vencer na Era das IAs Generativas
+
+Para prosperar na era das IAs generativas, considere as seguintes estratégias:
+
+  -  Eduque-se: Mantenha-se informado sobre as últimas tendências e tecnologias de IA.
+  -  Desenvolva Habilidades: Aprenda a usar ferramentas de IA generativa para aumentar sua produtividade.
+  -  Seja Ético: Use a IA de forma responsável, garantindo a autenticidade e a transparência em seu trabalho.
+  -  Inove: Combine criatividade humana com as capacidades das IAs para criar conteúdos únicos.
+
+
+## 8. Conclusão
+
+A era das IAs generativas apresenta tanto oportunidades quanto desafios. Ao entender como essas tecnologias funcionam e como usá-las de forma ética e criativa, podemos aproveitar ao máximo seu potencial e navegar com sucesso nesse novo cenário digital.
+
+
+Este material abrange os principais aspectos da IA generativa e fornece uma visão equilibrada das oportunidades e desafios, equipando os leitores e espectadores com o conhecimento necessário para vencer na era das IAs generativas.
+
+
+
+
+
+
+
+
